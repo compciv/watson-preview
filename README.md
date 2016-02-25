@@ -66,7 +66,7 @@ As in other projects, we need an API key from IBM to use its service. That key w
 
 Why JSON. Because that's the way IBM does it. 
 
-Jump to the About [IBM Watson's Visual Recognition API section](#TK) for more information about signing up.
+Jump to the About [IBM Watson's Visual Recognition API section](https://github.com/compciv/watson-preview#about-the-ibm-watson-visual-recognition-api) for more information about signing up.
 
 
 ##### fetcher.py
