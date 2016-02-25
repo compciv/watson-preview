@@ -1,0 +1,20 @@
+{"images":[
+	{"image":"cruisin.jpg",
+	 "scores":[
+		 {"classifier_id":"Outdoors","name":"Outdoors","score":0.737416},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.723561},
+		 {"classifier_id":"Blue","name":"Blue","score":0.715381},
+		 {"classifier_id":"Vehicle","name":"Vehicle","score":0.69131},
+		 {"classifier_id":"Scene","name":"Scene","score":0.686063},
+		 {"classifier_id":"War_Ship","name":"War_Ship","score":0.675698},
+		 {"classifier_id":"SUV","name":"SUV","score":0.674861},
+		 {"classifier_id":"Truck","name":"Truck","score":0.669323},
+		 {"classifier_id":"Blue_Sky","name":"Blue_Sky","score":0.666491},
+		 {"classifier_id":"Fishing","name":"Fishing","score":0.662698},
+		 {"classifier_id":"Deep_Sea_Fishing","name":"Deep_Sea_Fishing","score":0.634724},
+		 {"classifier_id":"Surf_Casting","name":"Surf_Casting","score":0.627186},
+		 {"classifier_id":"Sports","name":"Sports","score":0.586323},
+		 {"classifier_id":"Landmark","name":"Landmark","score":0.555488},
+		 {"classifier_id":"Air_Travel_Facility","name":"Air_Travel_Facility","score":0.548396},
+		 {"classifier_id":"Landing_Deck","name":"Landing_Deck","score":0.526592}]}]
+}

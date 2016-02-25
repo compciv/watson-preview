@@ -1,0 +1,17 @@
+{"images":[
+	{"image":"barbed.jpg",
+	 "scores":[
+		 {"classifier_id":"Riot","name":"Riot","score":0.666692},
+		 {"classifier_id":"Scene","name":"Scene","score":0.642279},
+		 {"classifier_id":"Placental_Mammal","name":"Placental_Mammal","score":0.618112},
+		 {"classifier_id":"Racoon","name":"Racoon","score":0.611688},
+		 {"classifier_id":"Disturbance","name":"Disturbance","score":0.603698},
+		 {"classifier_id":"Repairing","name":"Repairing","score":0.603474},
+		 {"classifier_id":"Activity","name":"Activity","score":0.602314},
+		 {"classifier_id":"Animal","name":"Animal","score":0.591651},
+		 {"classifier_id":"Mammal","name":"Mammal","score":0.586731},
+		 {"classifier_id":"Street_Scene","name":"Street_Scene","score":0.579344},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.531226},
+		 {"classifier_id":"Big_Group","name":"Big_Group","score":0.525678},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.517869}]}]
+}

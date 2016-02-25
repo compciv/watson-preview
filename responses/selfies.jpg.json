@@ -1,0 +1,18 @@
+{"images":[
+	{"image":"selfies.jpg",
+	 "scores":[
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.71283},
+		 {"classifier_id":"Human","name":"Human","score":0.706253},
+		 {"classifier_id":"Birthday_Party","name":"Birthday_Party","score":0.703725},
+		 {"classifier_id":"Graduation","name":"Graduation","score":0.685615},
+		 {"classifier_id":"Mixed_Color","name":"Mixed_Color","score":0.638071},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.637774},
+		 {"classifier_id":"Store","name":"Store","score":0.605665},
+		 {"classifier_id":"Clothing","name":"Clothing","score":0.59722},
+		 {"classifier_id":"People","name":"People","score":0.576829},
+		 {"classifier_id":"Subway_Interior","name":"Subway_Interior","score":0.57603},
+		 {"classifier_id":"Amusement_Arcade","name":"Amusement_Arcade","score":0.555734},
+		 {"classifier_id":"Rabbit","name":"Rabbit","score":0.547387},
+		 {"classifier_id":"Head_and_Shoulders","name":"Head_and_Shoulders","score":0.546744},
+		 {"classifier_id":"Boxing","name":"Boxing","score":0.54126}]}]
+}

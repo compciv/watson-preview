@@ -1,0 +1,14 @@
+{"images":[
+	{"image":"calling.jpg",
+	 "scores":[
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.665624},
+		 {"classifier_id":"Graduation","name":"Graduation","score":0.583727},
+		 {"classifier_id":"Meeting","name":"Meeting","score":0.582404},
+		 {"classifier_id":"Mixed_Type","name":"Mixed_Type","score":0.578559},
+		 {"classifier_id":"Passageway","name":"Passageway","score":0.561184},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.54017},
+		 {"classifier_id":"Flag_Burning","name":"Flag_Burning","score":0.530675},
+		 {"classifier_id":"Dress","name":"Dress","score":0.527462},
+		 {"classifier_id":"Subway_Interior","name":"Subway_Interior","score":0.519087},
+		 {"classifier_id":"Human","name":"Human","score":0.504635}]}]
+}

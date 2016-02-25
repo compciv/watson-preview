@@ -1,0 +1,17 @@
+{"images":[
+  {"image":"fistbump.jpg",
+   "scores":[
+     {"classifier_id":"Graduation","name":"Graduation","score":0.70424},
+     {"classifier_id":"Musical_Instrument","name":"Musical_Instrument","score":0.669679},
+     {"classifier_id":"Engine_Room","name":"Engine_Room","score":0.637412},
+     {"classifier_id":"Tool","name":"Tool","score":0.61871},
+     {"classifier_id":"Icicles","name":"Icicles","score":0.594572},
+     {"classifier_id":"Sawhorse","name":"Sawhorse","score":0.590689},
+     {"classifier_id":"Vise","name":"Vise","score":0.586644},
+     {"classifier_id":"Disturbance","name":"Disturbance","score":0.583578},
+     {"classifier_id":"Clothing_Store","name":"Clothing_Store","score":0.577901},
+     {"classifier_id":"Dining_Room","name":"Dining_Room","score":0.547187},
+     {"classifier_id":"Parkour","name":"Parkour","score":0.54662},
+     {"classifier_id":"Gray","name":"Gray","score":0.546474},
+     {"classifier_id":"Celebration","name":"Celebration","score":0.545719}]}]
+}

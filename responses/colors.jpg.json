@@ -1,0 +1,19 @@
+{"images":[
+	{"image":"colors.jpg",
+	 "scores":[
+		 {"classifier_id":"Performing","name":"Performing","score":0.699422},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.689554},
+		 {"classifier_id":"Tennis_Court","name":"Tennis_Court","score":0.675556},
+		 {"classifier_id":"Vivarium","name":"Vivarium","score":0.637867},
+		 {"classifier_id":"Toothless_Mammal","name":"Toothless_Mammal","score":0.62353},
+		 {"classifier_id":"Seahorse","name":"Seahorse","score":0.613852},
+		 {"classifier_id":"Tool","name":"Tool","score":0.595726},
+		 {"classifier_id":"Blue","name":"Blue","score":0.581633},
+		 {"classifier_id":"Vise","name":"Vise","score":0.564054},
+		 {"classifier_id":"Scene","name":"Scene","score":0.562204},
+		 {"classifier_id":"Concert","name":"Concert","score":0.556312},
+		 {"classifier_id":"Tennis","name":"Tennis","score":0.551173},
+		 {"classifier_id":"Sauna","name":"Sauna","score":0.549186},
+		 {"classifier_id":"Dancing","name":"Dancing","score":0.540281},
+		 {"classifier_id":"Fireworks","name":"Fireworks","score":0.508628}]}]
+}

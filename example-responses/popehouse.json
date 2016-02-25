@@ -1,0 +1,18 @@
+{"images":[
+	{"image":"popehouse.jpg",
+	 "scores":[
+		 {"classifier_id":"Coffee_Maker","name":"Coffee_Maker","score":0.681709},
+		 {"classifier_id":"Bottle","name":"Bottle","score":0.676605},
+		 {"classifier_id":"Lamp","name":"Lamp","score":0.661468},
+		 {"classifier_id":"Full_Body","name":"Full_Body","score":0.658399},
+		 {"classifier_id":"Dancing","name":"Dancing","score":0.616775},
+		 {"classifier_id":"Natural_Activity","name":"Natural_Activity","score":0.579513},
+		 {"classifier_id":"Closet","name":"Closet","score":0.575224},
+		 {"classifier_id":"Industrial_Space","name":"Industrial_Space","score":0.572877},
+		 {"classifier_id":"Performing","name":"Performing","score":0.569426},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.569391},
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.565619},
+		 {"classifier_id":"Scene","name":"Scene","score":0.538375},
+		 {"classifier_id":"Female_Adult","name":"Female_Adult","score":0.514846},
+		 {"classifier_id":"Adult","name":"Adult","score":0.511351}]}]
+}

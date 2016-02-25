@@ -1,0 +1,21 @@
+{"images":[
+	{"image":"torch.jpg",
+	 "scores":[
+		 {"classifier_id":"Aquarium","name":"Aquarium","score":0.70693},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.703165},
+		 {"classifier_id":"Motor_Sport","name":"Motor_Sport","score":0.604785},
+		 {"classifier_id":"Fireworks","name":"Fireworks","score":0.595466},
+		 {"classifier_id":"Fireworks","name":"Fireworks","score":0.595466},
+		 {"classifier_id":"Air_Vehicle","name":"Air_Vehicle","score":0.594207},
+		 {"classifier_id":"Locker_Room","name":"Locker_Room","score":0.593119},
+		 {"classifier_id":"Hot_Air_Balloon","name":"Hot_Air_Balloon","score":0.592555},
+		 {"classifier_id":"Heavy_Truck","name":"Heavy_Truck","score":0.59226},
+		 {"classifier_id":"Outdoors","name":"Outdoors","score":0.587899},
+		 {"classifier_id":"Burning","name":"Burning","score":0.58544},
+		 {"classifier_id":"Vehicle","name":"Vehicle","score":0.581694},
+		 {"classifier_id":"Black","name":"Black","score":0.57755},
+		 {"classifier_id":"Skyline","name":"Skyline","score":0.577194},
+		 {"classifier_id":"Wild_Fire","name":"Wild_Fire","score":0.574643},
+		 {"classifier_id":"Landmark","name":"Landmark","score":0.541261},
+		 {"classifier_id":"Sunset","name":"Sunset","score":0.534189}]}]
+}
