@@ -20,3 +20,4 @@ creds_*
 eggs/
 .eggs/
 tempdata/
+_drafts/
