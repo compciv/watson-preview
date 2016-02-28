@@ -182,7 +182,7 @@ Copy that and make it your `creds_watson_visual.json`
 Watson's results should seem wonky, if not downright inferior. We'll understand why (or why not) next week. But for now, it's useful to compare it to other services:
 
 
-- Project Oxford Face detection https://www.projectoxford.ai/demo/face
-- Project Oxford Feature Analysis https://www.projectoxford.ai/demo/vision#Analysis
-- Faceplusplus Detect http://www.faceplusplus.com/demo-detect/
-- Faceplusplus Search (to determine which famous person it is) http://www.faceplusplus.com/demo-search/
+- [Project Oxford Face detection](https://www.projectoxford.ai/demo/face) 
+- [Project Oxford Feature Analysis](https://www.projectoxford.ai/demo/vision#Analysis) 
+- [Faceplusplus Detect](http://www.faceplusplus.com/demo-detect/) 
+- [Faceplusplus Search](http://www.faceplusplus.com/demo-search/) (to determine which famous person it is) 
